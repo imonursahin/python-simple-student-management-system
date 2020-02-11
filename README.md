@@ -1,8 +1,8 @@
-#Python'da Basit Öğrenci Yönetim Sistemi
+# Python'da Basit Öğrenci Yönetim Sistemi
 
-+Akademisyen bilgisini verir.
-+Kayıtlı öğrencileri gösterir.
-+Öğrenciye ait sınav notları ve devamsızlık işlemleri yapar.
++ Akademisyen bilgisini verir.
++ Kayıtlı öğrencileri gösterir.
++ Öğrenciye ait sınav notları ve devamsızlık işlemleri yapar.
 
 
 KULLANIMI:
